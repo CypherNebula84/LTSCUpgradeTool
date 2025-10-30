@@ -1,6 +1,6 @@
 # LTSC Upgrade Tool
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Author:** [CN84]  
 **Date:** 2025-10-30  
 
